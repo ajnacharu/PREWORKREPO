@@ -1,7 +1,7 @@
 import random
 
 #From chatbot0.1 by lagrassom on replit https://replit.com/@lagrassom/chatbot01#main.py
-
+###3gwinning team
 input('Welcome to Good Burger Home of the Good Burger, Can i take your order?')
 
 def generate_response(user_input):
